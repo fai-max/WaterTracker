@@ -11,7 +11,7 @@ import SwiftUI
 struct WaterTrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StartView()
         }
     }
 }
